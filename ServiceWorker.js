@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (1)-1.0";
 const contentToCache = [
     "Build/New folder (2).loader.js",
-    "Build/New folder (2).framework.js.br",
-    "Build/New folder (2).data.br",
-    "Build/New folder (2).wasm.br",
+    "Build/New folder (2).framework.js.unityweb",
+    "Build/New folder (2).data.unityweb",
+    "Build/New folder (2).wasm.unityweb",
     "TemplateData/style.css"
 
 ];
